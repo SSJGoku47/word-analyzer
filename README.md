@@ -1,2 +1,7 @@
-# word-analyzer
-word-analyzer : analyze the frequency of words in a given text and text file
+# Laravel Word analyzer Setup
+
+1. Clone from the git repository
+2. Install project dependencies: composer install
+3. 
+
+
